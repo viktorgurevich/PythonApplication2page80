@@ -1,0 +1,13 @@
+https://www.w3schools.com/python/default.asp   
+https://docs.python.org/3.8/tutorial/index.html
+https://www.python.org/downloads/release/python-396/
+https://www.tutorialspoint.com/python/index.htm
+https://www.w3schools.com/python/numpy/default.asp
+https://www.w3schools.com/python/pandas/default.asp
+https://www.w3schools.com/python/scipy/index.php
+
+Music Python Libraries:
+
+https://www.kaggle.com/
+https://www.kaggle.com/andradaolteanu/gtzan-dataset-music-genre-classification
+
