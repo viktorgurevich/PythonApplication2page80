@@ -11,3 +11,7 @@ python.exe -m pip install --upgrade pip
 
 pip install pyodbc
 pandas --installed via Visual Studio
+
+install beatifulsoup4 (via Insert_name)
+
+install requests: manually
