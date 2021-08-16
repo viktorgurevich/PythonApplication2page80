@@ -11,3 +11,6 @@ Music Python Libraries:
 https://www.kaggle.com/
 https://www.kaggle.com/andradaolteanu/gtzan-dataset-music-genre-classification
 
+
+G:\Tools\Python\Books
+
