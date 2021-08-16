@@ -15,3 +15,10 @@ pandas --installed via Visual Studio
 install beatifulsoup4 (via Insert_name)
 
 install requests: manually
+
+
+#From the Windows command prompt, however, pip works:
+#python -m pip install scipy
+#python -m pip list   --list of
+#python -m pip freeze  --list of
+#python -m pip freeze -V  --version

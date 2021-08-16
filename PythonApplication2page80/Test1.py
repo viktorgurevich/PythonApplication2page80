@@ -128,10 +128,6 @@ print(f.read())
 #help("modules")   listing installed modules.
 #pip does not work for me though is available on the path folder
 
-#From the Windows command prompt, however, pip works:
-#python -m pip install scipy
-#python -m pip list   --list of
-#python -m pip freeze  --list of
-#python -m pip freeze -V  --version
+
 
 #https://www.csestack.org/python/
