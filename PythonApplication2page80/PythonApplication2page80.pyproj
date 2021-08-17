@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>96ba1bd2-9b45-4f8d-ab5a-33a13bbe1862</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Equations.py</StartupFile>
+    <StartupFile>Scraping.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
