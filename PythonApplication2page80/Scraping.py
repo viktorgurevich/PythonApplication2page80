@@ -15,17 +15,23 @@ r = requests.get(url)
 print(r.text)
 
 print(r.status_code)
-# What is the textual status code?
+ 
 print(r.reason)
-# What were the HTTP response headers?
+ 
 print(r.headers)
 
 #-----------------------------------------------------------------------------------------------
 import requests
 #url = 'http://www.webscrapingfordatascience.com/usercheck/'  #This works
 url = 'https://en.wikipedia.org/w/index.php\?title=List_of_Game_of_Thrones_episodes&oldid=802553687'    #This doesnot
+url = 'https://www.target.com'
+url='https://www.GlobeTax.com'
 my_headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 ' + ' (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36'}
 
 r = requests.get(url, headers=my_headers)
 print(r.text)
 print(r.request.headers)
+
+print(r.headers)
+
+#All fails with Fiddler
