@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>96ba1bd2-9b45-4f8d-ab5a-33a13bbe1862</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Scraping.py</StartupFile>
+    <StartupFile>Scraping_P129.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -24,10 +24,16 @@
     <Compile Include="DBoperations.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="Scraping_P124.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="Scraping.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="PythonApplication2page80.py" />
+    <Compile Include="Scraping_P129.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="Test1.py" />
     <Compile Include="Test2.py" />
     <Compile Include="Test3.py" />
