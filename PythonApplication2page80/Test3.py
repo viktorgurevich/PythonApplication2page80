@@ -23,17 +23,6 @@ txt = "hello world"
 
 print(c.hump(txt)) 
 
-f = open("demofile2.txt", "a")
-f.write("Now the file has more content!")
-f.close()
-
-#open and read the file after the appending:
-f = open("demofile2.txt", "r")
-print(f.read()) 
-
-#==========================
-
-
 
 #---------------------------------https://www.w3schools.com/python/scipy/scipy_optimizers.php
 #SQL: https://docs.microsoft.com/en-us/sql/connect/python/pyodbc/step-1-configure-development-environment-for-pyodbc-python-development?view=sql-server-ver15
