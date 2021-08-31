@@ -13,6 +13,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		PythonApplication2page80\ReferencesOnline.txt = PythonApplication2page80\ReferencesOnline.txt
 	EndProjectSection
 EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PythonAppMachineLearning", "PythonAppMachineLearning\PythonAppMachineLearning.pyproj", "{C6E02E03-7E72-4D66-B4F7-FA361908D077}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,8 @@ Global
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{96BA1BD2-9B45-4F8D-AB5A-33A13BBE1862}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{96BA1BD2-9B45-4F8D-AB5A-33A13BBE1862}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6E02E03-7E72-4D66-B4F7-FA361908D077}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6E02E03-7E72-4D66-B4F7-FA361908D077}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
