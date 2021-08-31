@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>96ba1bd2-9b45-4f8d-ab5a-33a13bbe1862</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Scraping.py</StartupFile>
+    <StartupFile>IntroductionToMachineLearning1.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -25,6 +25,9 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="FileOps.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="IntroductionToMachineLearning1.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="Scraping_P124.py">

@@ -49,6 +49,17 @@ html_contents = r.text
 html_soup = BeautifulSoup(html_contents,"html.parser")
 
 import datetime
+
+#d = datetime.datetime.strptime( "20170108233000", "%Y%m%d%H%M%S")
+#d = datetime.datetime.strptime( str(datetime.datetime.now()),"YYYY%m%d%H%M%S")    2021-08-23 10:36:54.240988
+
+#ticks=d.timestamp()
+#fileName=str(ticks) +".html"
+
+#t0 = datetime.datetime(1970, 1, 1, tzinfo=timezone.utc)
+#ticks = (d - t0).total_seconds()
+
+
 fileName=str(datetime.datetime.now())[17:19] +".html"
 MyText= r.text
 
